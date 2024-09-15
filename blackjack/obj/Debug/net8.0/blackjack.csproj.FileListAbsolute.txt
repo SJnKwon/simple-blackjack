@@ -1,0 +1,14 @@
+E:\Personal_Git_Projects\blackjack\blackjack\bin\Debug\net8.0\blackjack.exe
+E:\Personal_Git_Projects\blackjack\blackjack\bin\Debug\net8.0\blackjack.deps.json
+E:\Personal_Git_Projects\blackjack\blackjack\bin\Debug\net8.0\blackjack.runtimeconfig.json
+E:\Personal_Git_Projects\blackjack\blackjack\bin\Debug\net8.0\blackjack.dll
+E:\Personal_Git_Projects\blackjack\blackjack\bin\Debug\net8.0\blackjack.pdb
+E:\Personal_Git_Projects\blackjack\blackjack\obj\Debug\net8.0\blackjack.GeneratedMSBuildEditorConfig.editorconfig
+E:\Personal_Git_Projects\blackjack\blackjack\obj\Debug\net8.0\blackjack.AssemblyInfoInputs.cache
+E:\Personal_Git_Projects\blackjack\blackjack\obj\Debug\net8.0\blackjack.AssemblyInfo.cs
+E:\Personal_Git_Projects\blackjack\blackjack\obj\Debug\net8.0\blackjack.csproj.CoreCompileInputs.cache
+E:\Personal_Git_Projects\blackjack\blackjack\obj\Debug\net8.0\blackjack.dll
+E:\Personal_Git_Projects\blackjack\blackjack\obj\Debug\net8.0\refint\blackjack.dll
+E:\Personal_Git_Projects\blackjack\blackjack\obj\Debug\net8.0\blackjack.pdb
+E:\Personal_Git_Projects\blackjack\blackjack\obj\Debug\net8.0\blackjack.genruntimeconfig.cache
+E:\Personal_Git_Projects\blackjack\blackjack\obj\Debug\net8.0\ref\blackjack.dll
