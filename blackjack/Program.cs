@@ -160,7 +160,7 @@ namespace Blackjack
             {
                 int j = random.Next(i, cards.Count);
                 Card temp = cards[i];
-                cards[i] = cards[i];
+                cards[i] = cards[j];
                 cards[j] = temp;
             }
         }
