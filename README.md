@@ -30,6 +30,11 @@ This is a terminal-based Blackjack game implemented in C# using Visual Studio Co
     ```bash
     dotnet run
     ```
+Or if you want to play locally
+1. Clone this repository.
+2. Navigate to the project directory.
+3. Run Program.cs
+
 
 ## Example
 
